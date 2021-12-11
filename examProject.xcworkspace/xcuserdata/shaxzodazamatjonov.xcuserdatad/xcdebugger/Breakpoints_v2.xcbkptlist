@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C67F1A14-4303-400C-B2AF-9AC865CAF40C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED5E82CF-A4DD-46F3-8879-3D8C3AE7A7F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "examProject/WelcomePage/WelcomeViewController.swift"
+            startingColumnNumber = "54"
+            endingColumnNumber = "62"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "initViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
